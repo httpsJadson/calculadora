@@ -77,10 +77,3 @@ body{
 .botoes button:hover{
     opacity: 0.5;
 }
-
-.botoes button:disabled{
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
-
